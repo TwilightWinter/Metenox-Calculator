@@ -1,0 +1,7 @@
+.DS_Store
+.clangd
+metenox
+metenox_tests
+*.dSYM
+moons.txt
+tests/*.txt

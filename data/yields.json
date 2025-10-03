@@ -1,0 +1,147 @@
+{
+  "Bitumens": {
+    "tier": "R4",
+    "minerals": {
+      "Hydrocarbons": 65
+    }
+  },
+  "Coesite": {
+    "tier": "R4",
+    "minerals": {
+      "Silicates": 65
+    }
+  },
+  "Sylvite": {
+    "tier": "R4",
+    "minerals": {
+      "Evaporite Deposits": 65
+    }
+  },
+  "Zeolites": {
+    "tier": "R4",
+    "minerals": {
+      "Atmospheric Gases": 65
+    }
+  },
+  "Cobaltite": {
+    "tier": "R8",
+    "minerals": {
+      "Cobalt": 40
+    }
+  },
+  "Euxenite": {
+    "tier": "R8",
+    "minerals": {
+      "Scandium": 40
+    }
+  },
+  "Scheelite": {
+    "tier": "R8",
+    "minerals": {
+      "Tungsten": 40
+    }
+  },
+  "Titanite": {
+    "tier": "R8",
+    "minerals": {
+      "Titanium": 40
+    }
+  },
+  "Chromite": {
+    "tier": "R16",
+    "minerals": {
+      "Chromium": 40,
+      "Hydrocarbons": 10
+    }
+  },
+  "Otavite": {
+    "tier": "R16",
+    "minerals": {
+      "Cadmium": 40,
+      "Atmospheric Gases": 10
+    }
+  },
+  "Sperrylite": {
+    "tier": "R16",
+    "minerals": {
+      "Platinum": 40,
+      "Evaporite Deposits": 10
+    }
+  },
+  "Vanadinite": {
+    "tier": "R16",
+    "minerals": {
+      "Vanadium": 40,
+      "Silicates": 10
+    }
+  },
+  "Carnotite": {
+    "tier": "R32",
+    "minerals": {
+      "Technetium": 50,
+      "Cobalt": 10,
+      "Atmospheric Gases": 15
+    }
+  },
+  "Cinnabar": {
+    "tier": "R32",
+    "minerals": {
+      "Mercury": 50,
+      "Tungsten": 10,
+      "Evaporite Deposits": 15
+    }
+  },
+  "Pollucite": {
+    "tier": "R32",
+    "minerals": {
+      "Caesium": 50,
+      "Scandium": 10,
+      "Hydrocarbons": 15
+    }
+  },
+  "Zircon": {
+    "tier": "R32",
+    "minerals": {
+      "Hafnium": 50,
+      "Titanium": 10,
+      "Silicates": 15
+    }
+  },
+  "Loparite": {
+    "tier": "R64",
+    "minerals": {
+      "Promethium": 22,
+      "Platinum": 10,
+      "Scandium": 20,
+      "Hydrocarbons": 20
+    }
+  },
+  "Monazite": {
+    "tier": "R64",
+    "minerals": {
+      "Neodymium": 22,
+      "Chromium": 10,
+      "Tungsten": 20,
+      "Evaporite Deposits": 20
+    }
+  },
+  "Xenotime": {
+    "tier": "R64",
+    "minerals": {
+      "Dysprosium": 22,
+      "Vanadium": 10,
+      "Cobalt": 20,
+      "Atmospheric Gases": 20
+    }
+  },
+  "Ytterbite": {
+    "tier": "R64",
+    "minerals": {
+      "Thulium": 22,
+      "Cadmium": 10,
+      "Titanium": 20,
+      "Silicates": 20
+    }
+  }
+}
+
