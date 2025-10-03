@@ -74,4 +74,4 @@ This tool was developed by [Twilight Winter](https://zkillboard.com/character/96
 
 If you find it useful, feel free to send an ISK donation.
 
-Also, OOTE is recruiting!
+Also, OOTE is recruiting! If you like PvP, join us [on Discord](https://discord.gg/JHUQu77rT9) and apply today.
