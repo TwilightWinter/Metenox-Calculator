@@ -3,5 +3,5 @@
 metenox
 metenox_tests
 *.dSYM
-moons.txt
+*.txt
 tests/*.txt

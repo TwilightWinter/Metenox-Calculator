@@ -51,6 +51,7 @@ char *minerals_to_janice_body(const MineralDB *db) {
 		snprintf(body + strlen(body), bufsize - strlen(body), "%s %s\n",
 			 numbuf, db->minerals[i].name);
 	}
+
 	return body;
 }
 
@@ -95,6 +96,9 @@ int janice_appraise(const MineralDB *db, JaniceResult *out) {
 		return -2;
 	}
 
+	char api_key_buf[100];
+	sprintf(api_key_buf, "X-ApiKey: %s", janice_key);
+
 	char *body = minerals_to_janice_body(db);
 	if (!body)
 		return -1;
@@ -116,6 +120,7 @@ int janice_appraise(const MineralDB *db, JaniceResult *out) {
 
 	struct curl_slist *headers = NULL;
 	headers = curl_slist_append(headers, "Content-Type: text/plain");
+	headers = curl_slist_append(headers, api_key_buf);
 	curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
 
 	res = curl_easy_perform(curl);

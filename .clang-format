@@ -1,4 +1,5 @@
 # .clang-format
 UseTab: Always
-IndentWidth: 8 # Or your desired tab width
-TabWidth: 8    # Should generally match IndentWidth when using tabs
+IndentWidth: 8
+TabWidth: 8
+
